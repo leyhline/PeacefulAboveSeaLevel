@@ -30,4 +30,21 @@
         </dependency>
     </dependencies>
 
+    <licenses>
+        <license>
+            <name>GPL-3.0-or-later</name>
+            <url>https://www.gnu.org/licenses/</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <id>leyhline</id>
+            <name>Thomas Leyh</name>
+            <email>thomas.leyh@mailbox.org</email>
+            <url>https://github.com/leyhline/</url>
+            <timezone>Europe/Berlin</timezone>
+        </developer>
+    </developers>
+
 </project>

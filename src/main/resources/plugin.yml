@@ -3,5 +3,5 @@ version: 1.0
 main: io.github.leyhline.PeacefulAboveSeaLevel.PeacefulAboveSeaLevel
 api-version: 1.16
 author: thomas.leyh@mailbox.org
-website: https://github.com/leyhline/
+website: https://github.com/leyhline/PeacefulAboveSeaLevel
 description: No monsters above sea level. You have to dig a hole to find the zombies.
